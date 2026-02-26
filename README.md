@@ -25,3 +25,26 @@ Tenho experiência prática construindo APIs, sistemas multi-tenant, integraçõ
 - 🔹 Linux (Ubuntu Server)
 
 ---
+
+### 🔹 Desenvolvimento Backend
+- Construção de APIs REST em Go
+- Implementação de autenticação e controle de permissões
+- Sistemas multi-tenant para controle empresarial
+- Processamento de arquivos grandes (2GB+) com foco em performance
+- Integrações entre serviços usando HTTP e mensageria
+
+### 🔹 Arquitetura & Infraestrutura
+- Configuração de ambientes Docker com múltiplas instâncias
+- Load balancing com Nginx e Apache
+- Estruturação de microsserviços com gateway
+- Implementação de mensageria com Kafka
+- Monitoramento completo com Datadog (APM + Infra + Logs)
+
+### 🔹 Observabilidade & Logs
+- Parsing avançado de logs com Logstash
+- Criação de transforms no Elasticsearch
+- Criação de queries complexas (regexp, wildcard, match_phrase)
+- Correlação de spans distribuídos
+- Monitoramento de containers e serviços físicos
+
+---
