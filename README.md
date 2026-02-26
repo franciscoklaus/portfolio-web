@@ -48,3 +48,24 @@ Tenho experiência prática construindo APIs, sistemas multi-tenant, integraçõ
 - Monitoramento de containers e serviços físicos
 
 ---
+
+## 🎯 Diferenciais
+
+- Mentalidade DevOps
+- Forte foco em performance e escalabilidade
+- Experiência real com troubleshooting em produção
+- Facilidade com regex e parsing estruturado
+- Confortável trabalhando com logs complexos e análise de tráfego
+- Experiência com ambientes Linux
+
+---
+
+## 📚 Atualmente Estudando
+
+- Arquitetura distribuída em larga escala
+- Mensageria avançada com Kafka
+- Padrões de concorrência em Go
+- Otimização de queries e processamento de dados
+- Observabilidade profunda em sistemas distribuídos
+
+---
